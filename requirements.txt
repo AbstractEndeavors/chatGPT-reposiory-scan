@@ -1,0 +1,4 @@
+openai
+imghdr
+python-dotenv
+requests
